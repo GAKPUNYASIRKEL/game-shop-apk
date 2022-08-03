@@ -1,0 +1,9 @@
+1,Minecraft,299000
+2,Zelda,500000
+3,Stumble,150000
+4,Valorant,235000
+5,Osumania,137000
+6,Templerun,12000
+7,Ashpalt,999000
+8,Warzone,500000
+9,ApexL,500000
