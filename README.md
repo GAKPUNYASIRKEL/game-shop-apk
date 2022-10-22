@@ -1,2 +1,2 @@
-# aplikasi-toko-game
-Project Tugas Akhir Alpro
+Game Shop APK
+TA Algorithm Proggraming
